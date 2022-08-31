@@ -6,6 +6,6 @@ Currently only has one command:
  Gets data from op.gg and returns this as an embedded message with the follow:
   - The name you searched for.
   - The player it found, with a link.
-  - The current player rank + rp.
+  - The current player rank + LP.
   - Games played : Wins and Lossses.
   - Most played champion.
